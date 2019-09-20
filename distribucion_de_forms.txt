@@ -1,0 +1,5 @@
+Forms:
+
+1. form inicial  - imagen de inicio.
+2. form login -> boton que vaya al form 3.
+3. form de registro -> 
